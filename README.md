@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f_a_i_z_mohammad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizmohammad-nandoliya-363277119) [![Freelancer]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f_a_i_z_mohammad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizmohammad-nandoliya-363277119) [![Stack-overflow]
 (https://img.shields.io/badge/FreeLancer-lancer?logo=stack-overflow&logoColor=white)](https://www.freelancer.com/u/Faizmgeek) 
 
 # 💻 Tech Stack:
