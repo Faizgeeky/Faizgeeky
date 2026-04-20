@@ -26,31 +26,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-<h3>☕ Support My Work</h3>
-<p>
-I build free tools and open-source projects for developers:
-</p>
-
-<ul>
-  <li>🌐 <a href="https://webtoolz365.com/" target="_blank">40+ Free Web Tools</a></li>
-  <li>⚙️ FastAPI / Flask Boilerplates</li>
-  <li>📦 Open-source libraries</li>
-</ul>
-
-<p>
-If this guide helps you or saves your time, consider supporting:
-</p>
-
-<p>
-👉 <a href="https://buymeacoffee.com/geekyfaiz" target="_blank" style="font-weight:bold;">
-Buy me a coffee ☕
-</a>
-</p>
-
-<hr/>
-
-<h3>🚀 Let’s build something awesome!</h3>
-<p>
-Feel free to connect, contribute, or give feedback.
-</p>
